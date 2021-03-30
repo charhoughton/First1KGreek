@@ -86,7 +86,7 @@ Architecture</p>
     
     <revisionDesc>
       <change when="2020-09-15" who="Lisa Cerrato">initial markup of new file.</change>
-      <change when="2020-12-09" who="Charlotte Houghton">file cleanup, language tags.</change>
+      <change when="2021-03-30" who="Charlotte Houghton">file cleanup and formatting, language tags.</change>
     </revisionDesc>
   </teiHeader>
   
@@ -9249,10 +9249,10 @@ Architecture</p>
   Οὐ μὴν τοῦτό γ’ ἦν σοι τὸ ἀμφισβητούενον, εἰ τὸ θυμούμενον τῆς ψυχῆς ἐν καρδίᾳ κατῴκισται, ἀλλ’ εἰ 
   τὸ λογιζόμενον, ὅπερ ἐχρῆν ἀποδείξαντα μὴ πολλὰ κάμνειν ὑπὲρ τοῦ θυμουμένου, μηδ’ ἐμπιπλάναι τὸ βιβλίον
   ἐπῶν ποιητικῶν, ὦν ἐφεξῆς γράφεις ὡδί</p>
-  <p rend="align">(Il. Σ 109) Ὅς γε πολὺ γλυκίων μέλιτος καταλειβομένοιο <lb/>Ἀνδρῶν ἐν στήθεσσιν ἀέξεται ἠΰτε καπνός. </p>
-  <p rend="align">Καὶ πάλιν· (frg. trag. adesp. 142 N.) <lb/>Ὁ θυμὸς αὐτὸν τῶν φρενῶν ἐξῇρ’ ἄνω.</p>
-  <p rend="align">καὶ πάλιν· (frg. trag. adesp. 143 N.) <lb/>Πηδῶν δ' ὁ θυμὸς ἔνδοθεν μαντεύεται.</p>
-  <p rend="align">καὶ μυρία ἕτερα τοιαῦτα παρ’ ὅλον τὸ γράμμα, κατασκευάζοντα τὸ θυμούμενον ὑπάρχειν
+  <p rend="left">(Il. Σ 109) Ὅς γε πολὺ γλυκίων μέλιτος καταλειβομένοιο <lb/>Ἀνδρῶν ἐν στήθεσσιν ἀέξεται ἠΰτε καπνός. </p>
+  <p rend="left">Καὶ πάλιν· (frg. trag. adesp. 142 N.) <lb/>Ὁ θυμὸς αὐτὸν τῶν φρενῶν ἐξῇρ’ ἄνω.</p>
+  <p rend="left">καὶ πάλιν· (frg. trag. adesp. 143 N.) <lb/>Πηδῶν δ' ὁ θυμὸς ἔνδοθεν μαντεύεται.</p>
+  <p rend="left">καὶ μυρία ἕτερα τοιαῦτα παρ’ ὅλον τὸ γράμμα, κατασκευάζοντα τὸ θυμούμενον ὑπάρχειν
     ἐν τῇ καρδίᾳ, δέον μὴ τοῦτο δεικνύειν ἀλλὰ τὸ λογιζόμενον, ἢ νὴ Δία, εἴπερ ἀδύνατος ἦν ἄντικρυς ἐπιδεικνύναι τοῦτο, 
     <pb facs="stoicorumveterum02arniuoft_0252"/>
     πειρασθῆναο γοῦν [ἐπιχειρῆσαι] δεῖξαι, καθ’ ἓν τοῦτο τὸ μόριον εἶναο τό τε θυμούμενον τῆς ψυχῆς καὶ τὸ λογιζόμενον.
@@ -9530,8 +9530,8 @@ Architecture</p>
     Θυμὸν ἐνί στήθεσσι περιπροχυθεὶς ἐδάμασσεν.</q><lb/>
   εἶτ' ἐφεξῆς· </p>
   <p rend="indent"><q>Ὅτι δὲ τὸ θυμοειδὲς ἐνταῦθά πού ἐστι, τὰ τοιαῦτα ἐμφαίνει πλείονα ὄντα· (Δ 24)</q></p>
-    <p rend="indent"><q rend="align">Ἥρῃ δ’ οὐκ ἔχαδε στῆθος χόλον, ἀλλὰ προσηύδα. καὶ· (Σ 168)</q></p>
-  <p rend="indent"><q rend="align">Χόλος, ὅστ’ ἐφέηκε πολύφρονά περ χαλεπῆναι.</q> </p> </div> 
+    <p rend="indent"><q rend="left">Ἥρῃ δ’ οὐκ ἔχαδε στῆθος χόλον, ἀλλὰ προσηύδα. καὶ· (Σ 168)</q></p>
+  <p rend="indent"><q rend="left">Χόλος, ὅστ’ ἐφέηκε πολύφρονά περ χαλεπῆναι.</q> </p> </div> 
 <div type="textpart" subtype="fragment"  n="905"> 
 <p rend="indent"><foreign xml:lang="lat">Galenus de Hipp. et Plat. plac. IV 1 (134) p. 331 M.</foreign>
   εἰ μὲν οὖν ἀεὶ τὰ αὐτὰ περὶ τῶν αὐτων ὁ Χρύσιππος ἔγραφε, καὶ μὴ διεφέρετο πρὸς αὑτὸν ἐν τοῖς πλείστοις 
@@ -9554,8 +9554,8 @@ Architecture</p>
   <p rend="indent">καὶ μετ’ ὀλίγα πάλιν· </p>
     <p rend="indent"><q>Ὅτι δὲ καὶ τὸ θυμοειδὲς ἐνταῦθα αὐτῷ ἐστι, τὰ τοιαῦτα ἐμφαίνει πλείονα ὄντα·<lb/>
       (Il. Δ 24) Ἥρῃ δ’ οὐκ ἔχαδε στῆθος χόλον, ἀλλὰ ππροσηύδα.</q></p>
-    <p rend="indent"><q rend="align">καὶ ἔτι·</q></p>
-    <p rend="indent"><q rend="align">(Il. Σ 108) Καὶ χόλον, ὅστ’ ἐφέηκε πολύφρονά περ χαλεπῆναι·
+    <p rend="indent"><q rend="left">καὶ ἔτι·</q></p>
+    <p rend="indent"><q rend="left">(Il. Σ 108) Καὶ χόλον, ὅστ’ ἐφέηκε πολύφρονά περ χαλεπῆναι·
       <lb/>Ὅστε πολὺ γλυκίων μέλιτος καταλειβομένοιο
       <lb/>Ἀνδρῶν ἐν στήθεσσιν ἀέξεται, ἠΰτε καπνός.</q> </p> </div> 
 <div type="textpart" subtype="fragment"  n="906"> 
@@ -9852,18 +9852,18 @@ Architecture</p>
     <pb facs="stoicorumveterum02arniuoft_0272"/>
 <lb/>Ἄλλο δ’ ἐνὶ στήθεσσι νόος καὶ μῆτις ἀμύμων. 
 <lb/>Ἀλλ’ ἐμὸν οὔποτε θυμὸν ἐνὶ στήθεσσιν ἔπειθεν.</p> 
-  <p rend="align"><foreign xml:lang="lat">(plures versus allatos fuisse testatur Galenus)</foreign> . . . . . . . . . . . 
+  <p rend="left"><foreign xml:lang="lat">(plures versus allatos fuisse testatur Galenus)</foreign> . . . . . . . . . . . 
 <lb/>Ὅτι δὲ καὶ τὸ ἐπιθυμητικὸν ἐνταῦθα διὰ τούτων ἐμφαίνει· 
 <lb/>Οὐ γὰρ πώποτ’ ἔμ’ ὧδε θεᾶς ἔρος οὐδὲ γυναικὸς 
 <lb/>Θυμὸν ἐνὶ στήθεσσι περιπροχυθεὶς ἐδάμασσε. 
 <lb/>. . . . . . . . . . . . . . . . . . . . . . . 
 <lb/>Ὅτι δὲ καὶ τὸ θυμοειδὲς ἐνταῦθά πού ἐστι τὰ τοιαῦτα ἐμφαίνει πλείονα ὄντα· 
 <lb/>Ἥρῃ δ’ οὐκ ἔχαδε στῆθος χόλον, ἀλλὰ προσηύδα.</p> 
-<p rend="align">καὶ ἔτι· 
+<p rend="left">καὶ ἔτι· 
 <lb/>Καὶ χόλον, ὅστ’ ἐφέηκε πολύφρονά περ χαλεπῆναι. 
 <lb/>Ὅς τε πολὺ γλυκίων μέλιτος καταλειβομένοιο 
 <lb/>Ἀνδρῶν ἐν στήθεσσιν ἀέξεται, ἠΰτε καπνός. </p>
-<p rend="align"><foreign xml:lang="lat">(sequebatur infinita fere versuum copia ex Homero, 
+<p rend="left"><foreign xml:lang="lat">(sequebatur infinita fere versuum copia ex Homero, 
   Hesiodo, Stesichoro, Empedocle, Orphicis, Tyrtaeo, tragoediae denique poëtis).</foreign></p>
 <p rend="indent">Ταυτὶ μὲν φήσουσιν ἀδολεσχίαν εἶναι γραώδη, τυχὸν δὲ καὶ γραμμάτων διδασκάλου βουλομένου 
   στίχους ὅτι πλείστους ὑπὸ τὸ αὐτὸ διανόημα τάξαι. . . . . . . . . . . . . . . . . . . . . . . . . . Ἀκούω δέ
@@ -9981,11 +9981,11 @@ Architecture</p>
   μαρτυρίοις ἄλλοις τέ τισι χρῆται καὶ τοῖς οὑτωσὶ παρ’ Ὁμήρῳ τῷ ποιητῇ λεγομένοις· (<foreign xml:lang="lat">Il.</foreign> Ψ 78. 79)
   <lb/>ἀλλ’ ἐμὲ μὲν κὴρ
   <lb/>ἀμφέχανε στυγερή, ἥπερ λάχε γεινόμενόν περ.</p>
-  <p rend="align">καὶ· (<foreign xml:lang="lat">Il.</foreign> Υ 127. 128) 
+  <p rend="left">καὶ· (<foreign xml:lang="lat">Il.</foreign> Υ 127. 128) 
     <lb/>ὕστερον αὖτε τὰ πείσεται ἅσσα οἱ αἶσα
     <lb/>γεινομένῳ ἐπένησε λίνῳ, ὅτε μιν τέκε μήτηρ· 
     <pb facs="stoicorumveterum02arniuoft_0277"/></p>
-  <p rend="align">καὶ· (<foreign xml:lang="lat">Il.</foreign> Ζ. 488)
+  <p rend="left">καὶ· (<foreign xml:lang="lat">Il.</foreign> Ζ. 488)
     <lb/>Μοῖραν δ’ οὔτινά φημι πεφυγμένον ἔμμεναι ἀνδρῶν.</p>
   <p rend="indent"><foreign xml:lang="lat">Cf. p. 262d.</foreign> οὐ μὴν οὐδ’ ἐκεῖνο συνιδεῖν ἠδυνήθη, 
     τὸ μηδαμῶς τὸν Ὅμηρον μηδ’ ἐν ἐκείνοις τοῖς ἔπεσι (<foreign xml:lang="lat">supra adscriptis</foreign>)
