@@ -15,7 +15,7 @@
           <persName role="principal">Leonard Muellner</persName>
           <persName role="principal">Bruce Robertson</persName>
         </respStmt>
-        
+ 
         <respStmt>
           <resp>Proofreading</resp>
           <persName>Pearl Spear</persName>
@@ -470,10 +470,10 @@ Architecture</p>
 <lb/>περὶ ποιημάτων πρὸς Φιλομαθῆ αʹ 
 <lb/>περὶ τοῦ πῶς δεῖ τῶν ποιημάτων ἀκούειν αʹ βʹ 
 <lb/>πρὸς τοὺς κριτικοὺς πρὸς Διόδωρον αʹ. </p>
-<p rend="center">2. Ἠθικοῦ Τόπου περὶ τὸν κοινὸν λόγον καὶ τὰς ἐκ τούτου συυισταμένας τέχνας καὶ ἀρετάς. 
-</p> 
 </div> 
-<div type="textpart" subtype="fragment"  n="17"> 
+<div type="textpart" subtype="fragment"  n="17">
+  <p rend="center">2. Ἠθικοῦ Τόπου περὶ τὸν κοινὸν λόγον καὶ τὰς ἐκ τούτου συυισταμένας τέχνας καὶ ἀρετάς. 
+</p>  
 <p rend="indent">Σύνταξις πρώτη· 
 <lb/>πρὸς τὰς ἀναζωγραφήσεις πρὸς Τιμώνακτα αʹ 
 <lb/>περὶ τοῦ πῶς ἕκαστα λέγομεν καὶ διανοούμεθα αʹ 
@@ -2561,8 +2561,7 @@ Architecture</p>
     πλεῖστα τῶν συγγραμμάτων ἐπιλέλοιπεν. </p>
 </div> 
 <div type="textpart" subtype="fragment"  n="186"> 
-  <head>
-    Περὶ Λεκτῶν αὐτοτελῶν.
+  <head>Περὶ Λεκτῶν αὐτοτελῶν.
     <lb/><foreign xml:lang="lat">Scripsit Chrysippus de rebus hac paragrapho tractatis:</foreign> 
 <lb/>περὶ προσταγμάτων βʹ 
 <lb/>περὶ ἐρωτήσεως βʹ 
@@ -6713,7 +6712,7 @@ Architecture</p>
   μηδὲν εἶναι παρὰ τὸ πᾶν ἕτερον, οὔτ’ ἄλλου τὸ πᾶν ἀλλ’ οὐδ’ ἑαυτοῦ. ποιεῖν
   γὰρ οὐ πέφυκε, τῷ δὲ ποιεῖν τὸ αἴτιον νοεῖται. </p> </div> 
 <div type="textpart" subtype="fragment"  n="526"> 
-  <head><foreign xml:lang="lat">§2. Duae notiones vocabuli <foreign xml:lang="grc">κόσμος.</foreign></foreign></head>
+  <head><foreign xml:lang="lat">§2. Duae notiones vocabuli </foreign>κόσμος.</head>
 <p rend="indent"><foreign xml:lang="lat">Diogenes Laërt. VII 137.</foreign> λέγουσι δὲ κόσμον τριχῶς· 
   αὐτόν τε τὸν θεὸν τὸν ἐκ τῆς ἁπάσης οὐσίας ἰδίως ποιόν, ὃς δὴ ἄφθαρτός ἐστι καὶ ἀγένητος,
   δημιουργὸς ὢν τῆς διακοσμήσεως, κατὰ χρόνων ποιὰς περιόδους ἀναλίσκων εἰς ἑαυτὸν τὴν ἅπασαν
@@ -9530,8 +9529,8 @@ Architecture</p>
     Θυμὸν ἐνί στήθεσσι περιπροχυθεὶς ἐδάμασσεν.</q><lb/>
   εἶτ' ἐφεξῆς· </p>
   <p rend="indent"><q>Ὅτι δὲ τὸ θυμοειδὲς ἐνταῦθά πού ἐστι, τὰ τοιαῦτα ἐμφαίνει πλείονα ὄντα· (Δ 24)</q></p>
-    <p rend="indent"><q rend="left">Ἥρῃ δ’ οὐκ ἔχαδε στῆθος χόλον, ἀλλὰ προσηύδα. καὶ· (Σ 168)</q></p>
-  <p rend="indent"><q rend="left">Χόλος, ὅστ’ ἐφέηκε πολύφρονά περ χαλεπῆναι.</q> </p> </div> 
+    <p rend="indent"><q rend="merge">Ἥρῃ δ’ οὐκ ἔχαδε στῆθος χόλον, ἀλλὰ προσηύδα. καὶ· (Σ 168)</q></p>
+  <p rend="indent"><q rend="merg">Χόλος, ὅστ’ ἐφέηκε πολύφρονά περ χαλεπῆναι.</q> </p> </div> 
 <div type="textpart" subtype="fragment"  n="905"> 
 <p rend="indent"><foreign xml:lang="lat">Galenus de Hipp. et Plat. plac. IV 1 (134) p. 331 M.</foreign>
   εἰ μὲν οὖν ἀεὶ τὰ αὐτὰ περὶ τῶν αὐτων ὁ Χρύσιππος ἔγραφε, καὶ μὴ διεφέρετο πρὸς αὑτὸν ἐν τοῖς πλείστοις 
@@ -9554,8 +9553,8 @@ Architecture</p>
   <p rend="indent">καὶ μετ’ ὀλίγα πάλιν· </p>
     <p rend="indent"><q>Ὅτι δὲ καὶ τὸ θυμοειδὲς ἐνταῦθα αὐτῷ ἐστι, τὰ τοιαῦτα ἐμφαίνει πλείονα ὄντα·<lb/>
       (Il. Δ 24) Ἥρῃ δ’ οὐκ ἔχαδε στῆθος χόλον, ἀλλὰ ππροσηύδα.</q></p>
-    <p rend="indent"><q rend="left">καὶ ἔτι·</q></p>
-    <p rend="indent"><q rend="left">(Il. Σ 108) Καὶ χόλον, ὅστ’ ἐφέηκε πολύφρονά περ χαλεπῆναι·
+    <p rend="indent"><q rend="merge">καὶ ἔτι·</q></p>
+    <p rend="indent"><q rend="merge">(Il. Σ 108) Καὶ χόλον, ὅστ’ ἐφέηκε πολύφρονά περ χαλεπῆναι·
       <lb/>Ὅστε πολὺ γλυκίων μέλιτος καταλειβομένοιο
       <lb/>Ἀνδρῶν ἐν στήθεσσιν ἀέξεται, ἠΰτε καπνός.</q> </p> </div> 
 <div type="textpart" subtype="fragment"  n="906"> 
